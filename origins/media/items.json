@@ -1,0 +1,32 @@
+{
+  "artefacts": [
+    [
+      "V1",
+      "M1",
+      "video",
+      false,
+      "/bytes/v1.txt"
+    ],
+    [
+      "S1",
+      "M1",
+      "captions",
+      false,
+      "/bytes/s1.vtt"
+    ],
+    [
+      "V2",
+      "M2",
+      "video",
+      false,
+      "/bytes/v2.txt"
+    ],
+    [
+      "SX",
+      "M2",
+      "captions",
+      true,
+      "/bytes/sx.vtt"
+    ]
+  ]
+}

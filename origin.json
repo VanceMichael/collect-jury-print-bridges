@@ -1,0 +1,19 @@
+{
+  "title": "短片盲审拷贝的编号交接与重领",
+  "sources": [
+    "/screenings/inbox.html",
+    "/permissions/r1.json",
+    "/permissions/r2.json",
+    "/office/seen.csv",
+    "/media/items.json",
+    "/media/addendum.json",
+    "/bytes/v1.txt",
+    "/bytes/v2.txt",
+    "/bytes/s1.vtt",
+    "/bytes/s2.vtt",
+    "/bytes/sx.vtt",
+    "/office/panels.csv"
+  ],
+  "forms": [],
+  "range_sources": []
+}
